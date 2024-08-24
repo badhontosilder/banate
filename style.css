@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: "Poppins", sans-serif;
+}
+.navbar-brand img{
+    width: 120px;
+}
+.nav-item{
+    padding: 0 15px;
+}
+.nav-item a{
+     font-size: 18px;
+}
+.button a{
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    background-color: #FF8401;
+    border-radius: 30px;
+}
+.second-header{
+    background-color:  #beefd7;
+
+}
+.clicke{
+    font-size: 18px;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 0;
+}
+.dark:hover{
+    color: #000;
+    
+}
+.hero-section{
+     background-color: rgb(246, 240, 240);
+     padding-bottom: 80px; 
+     position: relative;
+}
+.hero-text{
+    font-weight: 800;
+    line-height: 1.2;
+    font-size: 50px;
+}
+.struggl{
+    color: #18d077;
+}
+.hero-work{
+    font-size: 20px;
+}
+.hire{
+    padding: 10px;
+    color: #000;
+    text-decoration: none;
+    background-color: #18d077;
+    border-radius: 30px;
+    
+}
+.bg-img{
+    position: absolute;
+    bottom: 0;
+}
+.bg-img{
+  
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.counter-text{
+    background-color: #f3eeeee9;
+    height: 120px;
+}
+.counts{
+    margin-bottom: 150px;
+}
+.service-body{
+    display: flex;
+}
+.service-body-text{
+    margin-left: 40px;
+}
+.soluation-section{
+    margin-bottom: 200px;  
+}
+.card-img-top{
+    height: 70px;
+    width: 60px;
+    margin-top: 20px;
+    margin-left: 30px;
+    padding: 15px;
+    background-color: #bdf7dbd0;
+    border-radius: 5px;
+}
+.card {
+    border: none;
+    background-color: #ece7e7;
+    height: 300px;
+    overflow: hidden;
+}
+.client{
+    
+    background-color: #40a372;
+    margin-top: 200px;
+    border-radius: 20px;
+    position: absolute;
+    top: -340px;
+    left: 260px;
+}
+.client-body{
+    margin-top: 100px;
+}
+.industries{
+    background-color: #1e1e1e;
+}
+.binate{
+    margin-top: 300px;
+}
+.positions{
+    position: relative;
+}
+.resources{
+    background-color: #000;
+}
+.footer-list ul li{
+    list-style: none;
+    line-height: 2.4;
+}
+.harijtn{
+    border: 1px solid rgb(253, 251, 249);
+}
+.made{
+    background-color: #000;
+    margin-top: 1px;
+    text-align: center;
+    padding: 40px;
+}
+.made a{
+    text-decoration: none;
+    color: #d4d2d2c6;
+
+}
